@@ -1,26 +1,32 @@
-MUSIC STREAMING WEBSITE
+# 🎵 Music Streaming Website  Rhythmix 
 
+## 🚀 Features  
 
-Functionality:
+1. **User Authentication**: Login and Signup functionality.  
+2. **Search**: Find favorite tracks, artists, albums, and more.  
+3. **Playlists**: Create, customize, and manage personal playlists.  
+4. **Music Controls**: Play, pause, skip, shuffle, and repeat songs.  
+5. **Volume Control**: Adjust volume using a responsive volume bar.  
+6. **User Management**: Update profile details or log out.  
 
-1. Login/ Signup.
-2. Search for favourite tracks, artists, albums etc.
-3. Create and customize playlists.
-4. Control the music with usual controls such as play, pause, skip, shuffle, repeat etc.
-5. Adjust volume using volume bar.
-6. Update user details / Logout.
+## 🛠️ Technologies Used  
 
+- **Frontend:**  
+  - HTML5  
+  - CSS3  
+  - JavaScript  
+  - jQuery  
 
-Languages/Skills used:
-1. HTML5
-2. CSS3
-3. JavaScript
-4. PHP
-5. MYSQL
-6. AJAX
-7. jQuery
-8. JSON
+- **Backend:**  
+  - PHP  
+  - MySQL  
 
+- **Other Technologies:**  
+  - AJAX  
+  - JSON  
 
+## 👨‍💻 Developed By  
 
-Developed by: Manu Arora and Yash Saluja
+- **Anurag Dutta**  
+- **Snehasish Bose**  
+- **Dhruvajay Trivedi**  
